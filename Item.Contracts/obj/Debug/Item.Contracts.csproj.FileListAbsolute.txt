@@ -1,0 +1,7 @@
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\Item.Contracts\bin\Debug\Item.Contracts.dll
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\Item.Contracts\bin\Debug\Item.Contracts.pdb
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\Item.Contracts\obj\Debug\Item.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\Item.Contracts\obj\Debug\Item.Contracts.dll
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\Item.Contracts\obj\Debug\Item.Contracts.pdb
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\Item.Contracts\bin\Debug\ItemBE.dll
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\Item.Contracts\bin\Debug\ItemBE.pdb

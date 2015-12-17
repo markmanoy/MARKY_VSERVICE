@@ -1,0 +1,10 @@
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\ProductService\obj\Debug\MARKY_VSERVICE.csprojResolveAssemblyReference.cache
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\ProductService\bin\MARKY_VSERVICE.dll
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\ProductService\bin\MARKY_VSERVICE.pdb
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\ProductService\obj\Debug\MARKY_VSERVICE.dll
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\ProductService\obj\Debug\MARKY_VSERVICE.pdb
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\ProductService\bin\ItemBE.dll
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\ProductService\bin\ItemBE.pdb
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\ProductService\bin\Item.Access.dll
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\ProductService\bin\Item.Access.pdb
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\ProductService\bin\MARKY_VSERVICE.dll.config

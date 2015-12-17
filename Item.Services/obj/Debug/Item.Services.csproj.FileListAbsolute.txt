@@ -1,0 +1,4 @@
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\Item.Services\bin\Debug\Item.Services.dll
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\Item.Services\bin\Debug\Item.Services.pdb
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\Item.Services\obj\Debug\Item.Services.dll
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\Item.Services\obj\Debug\Item.Services.pdb

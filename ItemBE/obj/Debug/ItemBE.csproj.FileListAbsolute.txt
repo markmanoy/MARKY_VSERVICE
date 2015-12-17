@@ -1,0 +1,5 @@
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\ItemBE\bin\Debug\ItemBE.dll
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\ItemBE\bin\Debug\ItemBE.pdb
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\ItemBE\obj\Debug\ItemBE.dll
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\ItemBE\obj\Debug\ItemBE.pdb
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\ItemBE\obj\Debug\ItemBE.csprojResolveAssemblyReference.cache

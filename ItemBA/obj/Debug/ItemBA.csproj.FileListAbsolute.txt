@@ -1,0 +1,4 @@
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\ItemBA\bin\Debug\ItemBA.dll
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\ItemBA\bin\Debug\ItemBA.pdb
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\ItemBA\obj\Debug\ItemBA.dll
+C:\Users\MarkAndrew\Documents\Visual Studio 2015\Projects\MARKY_VSERVICE\ItemBA\obj\Debug\ItemBA.pdb
